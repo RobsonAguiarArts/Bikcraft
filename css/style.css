@@ -1,4 +1,3 @@
-
 /* Global */
 @import "./global/global.css";
 @import "./utilidades/tipografia.css";
@@ -19,3 +18,5 @@
 @import "./bicicletas/bicicletas-lista.css";
 /* Seguros*/
 @import "./seguros/seguros.css";
+/* Termos */
+@import "./termos/termos.css";
