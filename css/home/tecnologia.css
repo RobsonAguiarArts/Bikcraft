@@ -1,5 +1,5 @@
 .tecnologia-bg{
-background: var(--cor-11);
+background: var(--cor-11) url("../../img/dec/bottom-left.svg") no-repeat bottom 120px left 20px;
 box-shadow: inset 0px -80px var(--cor-0),inset 0px 80px var(--cor-0);
 }
 .tecnologia{
@@ -16,6 +16,7 @@ box-shadow: inset 0px -80px var(--cor-0),inset 0px 80px var(--cor-0);
 .tecnologia-conteudo{
   padding: 160px 0;
   display: block;
+  
 }
 .tecnologia-conteudo > span{
   display: block;
